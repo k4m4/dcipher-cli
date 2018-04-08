@@ -9,7 +9,6 @@ const cli = meow(`
 	Usage
 	  ~ ❯❯❯ dcipher <string>
 	  ~ ❯❯❯ echo <string> | dcipher
-	  ~ ❯❯❯ cat <file> | dcipher
 	Example
 	  ~ ❯❯❯ dcipher 1abcb33beeb811dca15f0ac3e47b88d9
 	  ${logSymbols.success} unicorn
