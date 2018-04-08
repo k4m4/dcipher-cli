@@ -1,0 +1,51 @@
+{
+  "name": "dcipher-cli",
+  "version": "1.0.0",
+  "description": "Crack hashes using online rainbow table attack services, right from your terminal.",
+  "license": "MIT",
+  "repository": "k4m4/dcipher-cli",
+  "author": {
+    "name": "Nikolaos Kamarinakis",
+    "url": "https://nikolaskama.me",
+    "email": "nikolaskam@gmail.com"
+  },
+  "bin": {
+    "dcipher": "cli.js",
+    "decipher": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "cli.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "hash",
+    "decipher",
+    "crack",
+    "password",
+    "table",
+    "cracking",
+    "ctf"
+  ],
+  "files": [
+    "cli.js"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.6.3"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "dcipher": "^1.0.0",
+    "get-stdin": "^6.0.0",
+    "hash-detector": "^1.1.0",
+    "log-symbols": "^2.2.0",
+    "meow": "^4.0.0",
+    "p-any": "^1.1.0",
+    "p-timeout": "^2.0.1",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
