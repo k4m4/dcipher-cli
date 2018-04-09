@@ -31,7 +31,11 @@
 
 - [`Base64`](https://github.com/kevva/base64-regex)
 - [`MD5`](https://github.com/k4m4/md5-regex)
-- [`SHA1`, `SHA224`, `SHA256`, `SHA384`, `SHA512`](https://github.com/k4m4/sha-regex)
+- [`SHA1`](https://github.com/k4m4/sha-regex)
+- [`SHA224`](https://github.com/k4m4/sha-regex)
+- [`SHA256`](https://github.com/k4m4/sha-regex)
+- [`SHA384`](https://github.com/k4m4/sha-regex)
+- [`SHA512`](https://github.com/k4m4/sha-regex)
 
 
 ## Credits
