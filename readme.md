@@ -1,6 +1,6 @@
 # dcipher-cli [![Build Status](https://travis-ci.org/k4m4/dcipher-cli.svg?branch=master)](https://travis-ci.org/k4m4/dcipher-cli)
 
-> Crack hashes using online rainbow table attack services, right from your terminal.
+> Crack hashes using online rainbow & lookup table attack services, right from your terminal.
 
 ---
 
