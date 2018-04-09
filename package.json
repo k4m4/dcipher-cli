@@ -1,6 +1,6 @@
 {
   "name": "dcipher-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crack hashes using online rainbow & lookup table attack services, right from your terminal.",
   "license": "MIT",
   "repository": "k4m4/dcipher-cli",
