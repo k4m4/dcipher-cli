@@ -16,7 +16,7 @@
 ```
 ~ ❯❯❯ dcipher --help
 
-  Crack hashes using online rainbow table attack services, right from your terminal.
+  Crack hashes using online rainbow & lookup table attack services, right from your terminal.
 
   Usage
     ~ ❯❯❯ dcipher <string>
