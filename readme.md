@@ -36,6 +36,7 @@
 - [`SHA256`](https://github.com/k4m4/sha-regex)
 - [`SHA384`](https://github.com/k4m4/sha-regex)
 - [`SHA512`](https://github.com/k4m4/sha-regex)
+- [`RIPEMD320`](https://github.com/k4m4/ripemd-regex)
 
 
 ## Credits
