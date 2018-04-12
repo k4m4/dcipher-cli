@@ -29,7 +29,6 @@
 
 ## Supported Hashes
 
-- [`Base64`](https://github.com/kevva/base64-regex)
 - [`MD5`](https://github.com/k4m4/md5-regex)
 - [`SHA1`](https://github.com/k4m4/sha-regex)
 - [`SHA224`](https://github.com/k4m4/sha-regex)
@@ -38,6 +37,9 @@
 - [`SHA512`](https://github.com/k4m4/sha-regex)
 - [`RIPEMD320`](https://github.com/k4m4/ripemd-regex)
 
+## Supported Encodings
+
+- [`Base64`](https://github.com/kevva/base64-regex)
 
 ## Credits
 
