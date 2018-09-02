@@ -21,6 +21,8 @@
   Usage
     ~ ❯❯❯ dcipher <string>
     ~ ❯❯❯ echo <string> | dcipher
+  Options
+    -p, --plain   Display output without log symbols
   Example
     ~ ❯❯❯ dcipher 1abcb33beeb811dca15f0ac3e47b88d9
     ✔ unicorn
