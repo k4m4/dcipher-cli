@@ -8,7 +8,7 @@ test('success', async t => {
 });
 
 test('fail', async t => {
-	const {stdout} = await t.throws(execa('./cli.js', ['unicorn']));
+	const stdout = await t.throwsAsync(execa('./cli.js', ['unicorn']));
 	const error = await dcipher('unicorn');
 	t.is(stdout.error, error.error);
 });
