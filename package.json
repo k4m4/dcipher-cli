@@ -14,7 +14,7 @@
     "decipher": "cli.js"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=9"
   },
   "main": "cli.js",
   "scripts": {
