@@ -13,6 +13,9 @@
     "dcipher": "cli.js",
     "decipher": "cli.js"
   },
+  "ava": {
+    "babel": true
+  },
   "engines": {
     "node": ">=9"
   },
@@ -33,7 +36,8 @@
     "cli.js"
   ],
   "devDependencies": {
-    "ava": "^1.4.1",
+    "@ava/babel": "^1.0.1",
+    "ava": "^3.5.2",
     "execa": "^0.6.3"
   },
   "dependencies": {
