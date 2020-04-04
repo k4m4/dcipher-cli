@@ -49,7 +49,7 @@
     "meow": "^4.0.1",
     "p-any": "^1.1.0",
     "p-timeout": "^2.0.1",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4"
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
   }
 }
